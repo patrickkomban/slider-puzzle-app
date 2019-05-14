@@ -1,3 +1,6 @@
+//THIS IS THE MODEL CODE WHICH DEALS WITH THE LOGIC OF THE PROGRAM, AND
+//HANDLES WHICH PUZZLE IMAGES SHOULD BE USED.
+
 public class GameModel {
 
     private int underscoreInd;

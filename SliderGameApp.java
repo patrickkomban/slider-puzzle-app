@@ -9,6 +9,8 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 import java.util.*;
 
+//THIS IS THE CONTROLLER CODE WHICH DEALS WITH THE MOUSE AND TIME EVENTS
+
 public class SliderGameApp extends Application {
     Timeline updateTimer;
     GameModel   model;

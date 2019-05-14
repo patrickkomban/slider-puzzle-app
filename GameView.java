@@ -1,3 +1,6 @@
+//THIS IS THE VIEW CODE, WHICH DEALS WITH THE UI OF THE APP (BUTTON PLACEMENTS, LIST 
+//OF PUZZLES AVAILABE, AND HANDLES THE TIME.
+
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
